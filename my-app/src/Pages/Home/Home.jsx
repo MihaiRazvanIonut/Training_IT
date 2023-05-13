@@ -9,7 +9,7 @@ function Home() {
 
     function Add() {
 
-        setNumber(number+1);
+        setNumber(number + 1);
         console.log(number);
 
     }
@@ -32,7 +32,7 @@ function Home() {
             <button onClick={() => Add()}>click me</button>
             <p>{number}</p>
 
-            
+
 
         </div>
     )
