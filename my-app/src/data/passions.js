@@ -24,6 +24,34 @@ export const my_passions = [
         descriptions: "Imi place sa beau",
         image: "https://lcdn.mediagalaxy.ro/media/catalog/product/B/A/BAR594207000130_62de6d58.jpg",
         importance: 1
+    },
+
+    {
+
+        title: "Fotografie",
+        descriptions: "Imi place sa fac poze.",
+        image: "https://i1.adis.ws/i/canon/eos-r10-frt_range_9feaf965e90e48d3a164d106d9939020",
+        importance: 2
+
+
+    },
+    {
+
+        title: "Fotografie",
+        descriptions: "Imi place sa fac poze.",
+        image: "https://i1.adis.ws/i/canon/eos-r10-frt_range_9feaf965e90e48d3a164d106d9939020",
+        importance: 3
+
+
+    },
+    {
+
+        title: "Fotografie",
+        descriptions: "Imi place sa fac poze.",
+        image: "https://i1.adis.ws/i/canon/eos-r10-frt_range_9feaf965e90e48d3a164d106d9939020",
+        importance: 7
+
+
     }
 
 
